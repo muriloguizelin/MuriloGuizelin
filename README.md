@@ -11,17 +11,6 @@ Estou cursando Ciência da Computação na UFMT.
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
 
-<!-- About section: END -->
-
-
-<!-- Conecct section -->
-
-<h2>Meu linkedin -> </h3>
-    <p>
-        <a href="https://linkedin.com/in/muriloguizelin"><img src="https://img.shields.io/badge/-Murilo%20Guizelin%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/muriloguizelin" alt="LinkedIn Badge"></a> 
-
-   </p>
-
  <!-- Conecct section: END -->
  
   <!-- GitHub section -->
@@ -31,7 +20,9 @@ Estou cursando Ciência da Computação na UFMT.
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=muriloguizelin&theme=transparent&hide_border=true&locale=pt_BR" alt="Gift's LangStat" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muriloguizelin&langs_count=10&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Gift's language" height="192px"  width="500px"/>
+     
 </div>
+ <a href="https://linkedin.com/in/muriloguizelin"><img src="https://img.shields.io/badge/-Murilo%20Guizelin%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/muriloguizelin" alt="LinkedIn Badge"></a> 
 
 
 <!-- GitHub section: END -->
