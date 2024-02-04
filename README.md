@@ -29,7 +29,7 @@ Estou cursando Ciência da Computação na UFMT.
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  
  <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lauragift21](https://github-readme-streak-stats.herokuapp.com?user=muriloguizelin&theme=transparent&hide_border=true&locale=pt_BR" alt="Gift's LangStat" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=muriloguizelin&theme=transparent&hide_border=true&locale=pt_BR" alt="Gift's LangStat" />
   <img align="center" src="github-readme-stats.vercel.app/api/top-langs?username=muriloguizelin&langs_count=10&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Gift's language" height="192px"  width="500px"/>
 </div>
 
