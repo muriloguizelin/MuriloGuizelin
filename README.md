@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! Bem-vindo ao meu perfil!/h3>
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! Bem-vindo ao meu perfil!/
 
 ---
 ✨ Eu sou um Desenvolvedor de Software, atualmente trabalhando com Java + Spring e React + Next, trabalho no projeto do sistema utilizado internamente pelos servidores da Polícia Técnica do Estado de Mato Grosso. 
@@ -16,9 +16,9 @@ Estou cursando Ciência da Computação na UFMT.
 
 <!-- Conecct section -->
 
-<h2>Connect with me </h3>
+<h2>Meu linkedin -> </h3>
     <p>
-        <a href="https://linkedin.com/in/muriloguizelin"><img src="https://img.shields.io/badge/-Gift%20Egwuenu%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/muriloguizelin" alt="LinkedIn Badge"></a> 
+        <a href="https://linkedin.com/in/muriloguizelin"><img src="https://img.shields.io/badge/-Murilo%20Guizelin%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/muriloguizelin" alt="LinkedIn Badge"></a> 
 
    </p>
 
