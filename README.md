@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! Bem-vindo ao meu perfil!/
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! Bem-vindo ao meu perfil!
 
 ---
 ✨ Eu sou um Desenvolvedor de Software, atualmente trabalhando com Java + Spring e React + Next, trabalho no projeto do sistema utilizado internamente pelos servidores da Polícia Técnica do Estado de Mato Grosso. 
@@ -15,7 +15,7 @@ Estou cursando Ciência da Computação na UFMT.
  
   <!-- GitHub section -->
 
- ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+ ## Dados do GitHub <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=muriloguizelin&theme=transparent&hide_border=true&locale=pt_BR" alt="Gift's LangStat" />
