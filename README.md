@@ -1,22 +1,17 @@
 <!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! Bem-vindo ao meu perfil!
+# 👋 Hi there, bem-vindo ao meu perfil!
 
 ---
-✨ Eu sou um Desenvolvedor de Software, atualmente trabalhando com Java + Spring e React + Next, trabalho no projeto do sistema utilizado internamente pelos servidores da Polícia Técnica do Estado de Mato Grosso. 
-
+✨ Eu sou um Desenvolvedor de Software, atualmente trabalhando com Java + Spring e React + Next, trabalho no projeto do sistema utilizado internamente pelos servidores da Polícia Técnica do Estado de Mato Grosso. </br>
 Estou cursando Ciência da Computação na UFMT. 
 
 
 <!-- code gif-->
 # 💻 Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 
 
- <!-- Conecct section: END -->
- 
-  <!-- GitHub section -->
-
- ## Dados do GitHub <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+# 🌐 GitHub:
  
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=muriloguizelin&theme=transparent&hide_border=true&locale=pt_BR" alt="Gift's LangStat" />
