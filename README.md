@@ -1,7 +1,7 @@
 <!-- Heading -->
 # 👋 Hi there, bem-vindo ao meu perfil!
 
-✨ Eu sou um Desenvolvedor de Software, atualmente trabalhando com Java + Spring e React + Next, trabalho no projeto do sistema utilizado internamente pelos servidores da Polícia Técnica do Estado de Mato Grosso. </br>
+✨ Eu sou um Desenvolvedor de Software, atualmente trabalhando com Java + Spring e React, trabalho no projeto do sistema utilizado internamente pelos servidores da Polícia Técnica do Estado de Mato Grosso. </br>
 
 Estou cursando Ciência da Computação na UFMT, curso que vem sendo extremamente produtivo para o meu desenvolvimento como profissional. 
 
